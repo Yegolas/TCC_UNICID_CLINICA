@@ -46,6 +46,8 @@ if ($result->num_rows > 0) {
     echo "Nenhum registro encontrado na tabela 'pessoas'.";
 }
 
+
+// Alterado com Sucesso
 // Fecha a conexão com o banco de dados
 $conn->close();
 ?>
