@@ -1,8 +1,8 @@
 <?php
 // Configurações do banco de dados
-$servername = "localhost"; // Host do MySQL (pode ser "localhost" se estiver rodando localmente)
-$username = "root"; // Nome de usuário do MySQL
-$password = "Ygor@9335"; // Senha do MySQL
+$servername = "177.153.63.44"; // Host do MySQL (pode ser "localhost" se estiver rodando localmente)
+$username = "formulario_imc"; // Nome de usuário do MySQL
+$password = "Fmc@88095980"; // Senha do MySQL
 $database = "formulario_imc"; // Nome do banco de dados
 
 // Cria a conexão
